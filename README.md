@@ -1,16 +1,21 @@
-### Hi there 👋
+## Game developer
 
-<!--
-**Xrayez/Xrayez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✔ Skills
+- Engine development
+- Computational geometry
+- Image processing
+- 2D Physics
+- Music composing
 
-Here are some ideas to get you started:
+### 🎯 Future
+- Reinforcement Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Publications
+
+### Software development ethics
+
+- [Waiting for Blue Robot](https://waiting-for-blue-robot.gitlab.io/index.html) - How To Make an Open-Source Community-Driven Project, Manage It and To Remain a Human.
+
+## 📫 Contacts:
+  - Discord: Xrayez#9757
+  - Twitter: https://twitter.com/Xrayez
