@@ -1,3 +1,5 @@
+There exists a power set of possibilities. The following is just a subset of what is possible to do in our universe of discourse. My interests and skills just happen to have an intersection with this set. 😁
+
 ## Game developer
 
 ## ✔ Skills
@@ -19,3 +21,4 @@
 ## 📫 Contacts:
   - Discord: Xrayez#9757
   - Twitter: https://twitter.com/Xrayez
+  - GitHub: If I don't respond, feel free to ping me: @Xrayez.
