@@ -19,6 +19,6 @@ There exists a power set of possibilities. The following is just a subset of wha
 - [Waiting for Blue Robot](https://waiting-for-blue-robot.gitlab.io/index.html) - How To Make an Open-Source Community-Driven Project, Manage It and To Remain a Human.
 
 ## 📫 Contacts:
-  - Discord: Xrayez#9757
+  - Discord: xrayez
   - Twitter: https://twitter.com/Xrayez
   - GitHub: If I don't respond, feel free to ping me: @Xrayez.
