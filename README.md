@@ -7,7 +7,7 @@ There exists a power set of possibilities. The following is just a subset of wha
 - Computational geometry
 - Image processing
 - 2D Physics
-- Music composing
+- [Music composing](https://soundcloud.com/xrayez)
 
 ### 🎯 Future
 - Reinforcement Learning
