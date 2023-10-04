@@ -3,18 +3,19 @@ There exists a power set of possibilities. The following is just a subset of wha
 ## Game developer
 
 ## ✔ Skills
-- Engine development
-- Computational geometry
-- Image processing
-- 2D Physics
-- [Music composing](https://soundcloud.com/xrayez)
+- [Bachelor of Computer Science](https://en.wikipedia.org/wiki/Bachelor_of_Computer_Science)
+- Engine/tools Development
+- Computational Geometry
+- Image Processing
+- Physics (predominantly 2D)
+- [Music Production](https://soundcloud.com/xrayez)
 
 ### 🎯 Future
 - Reinforcement Learning
 
 ## Publications
 
-### Software development ethics
+### Software Development Ethics
 
 - [Waiting for Blue Robot](https://waiting-for-blue-robot.gitlab.io/index.html) - How To Make an Open-Source Community-Driven Project, Manage It and To Remain a Human.
 
