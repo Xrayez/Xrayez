@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+
 There exists a power set of possibilities. The following is just a subset of what is possible to do in our universe of discourse. My interests and skills just happen to have an intersection with this set. 😁
 
 ## Game developer
