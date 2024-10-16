@@ -19,7 +19,7 @@ There exists a power set of possibilities. The following is just a subset of wha
 
 ### Software Development Ethics
 
-- [Waiting for Blue Robot](https://waiting-for-blue-robot.gitlab.io/index.html) - How To Make an Open-Source Community-Driven Project, Manage It and To Remain a Human.
+- [Waiting for Blue Robot](https://waiting-for-blue-robot.vercel.app/) - How To Make an Open-Source Community-Driven Project, Manage It and To Remain a Human.
 
 ## 📫 Contacts:
   - Discord: xrayez
